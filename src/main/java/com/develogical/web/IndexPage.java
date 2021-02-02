@@ -7,7 +7,7 @@ public class IndexPage extends HtmlPage {
     @Override
     protected void writeContentTo(PrintWriter writer) {
         writer.println(
-                "<h1>Welcome to Tanisha's page!</h1>" +
+                "<h1>Welcome to Tanisha'ss page!</h1>" +
                 "<p>Enter your query in the box below: " +
                   "<form><input type=\"text\" name=\"q\" />" +
                     "<input type=\"submit\">" +
